@@ -16,3 +16,8 @@ injectGlobal`
 ```
 
 运行reset.css适配任何浏览器的效果
+
+
+### 一种提高性能的方式
+
+immutable与PureComponent相结合，可以提高性能

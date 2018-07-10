@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }, {
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "https://upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "她将自己小时候被性侵的经历，拍成了电影",
+      "desc": "今天要推荐的是一部剧情片，由真人真事改编，真实而又残酷。 这部电影的导演便是女主角的原型。 詹妮弗·福克斯13岁时曾遭遇性侵，如今她将自己的经历...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/4445260-c293dba908003213.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 2,
+      "title": "她将自己小时候被性侵的经历，拍成了电影",
+      "desc": "今天要推荐的是一部剧情片，由真人真事改编，真实而又残酷。 这部电影的导演便是女主角的原型。 詹妮弗·福克斯13岁时曾遭遇性侵，如今她将自己的经历...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/4445260-c293dba908003213.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 3,
+      "title": "她将自己小时候被性侵的经历，拍成了电影",
+      "desc": "今天要推荐的是一部剧情片，由真人真事改编，真实而又残酷。 这部电影的导演便是女主角的原型。 詹妮弗·福克斯13岁时曾遭遇性侵，如今她将自己的经历...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/4445260-c293dba908003213.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://img.zcool.cn/community/0179f65732e4af6ac72526312c460c.jpg@1280w_1l_2o_100sh.jpg"
+    }, {
+      "id": 2,
+      "imgUrl": "http://pic.58pic.com/58pic/17/19/64/17S58PICgf8_1024.jpg"
+    }, {
+      "id": 3,
+      "imgUrl": "http://img.zcool.cn/community/01e08e5732e4ce6ac72526315c14fc.jpg@1280w_1l_2o_100sh.jpg"
+    }, {
+      "id": 4,
+      "imgUrl": "http://file32.mafengwo.net/M00/C6/65/wKgBs1bNtG-AMkfZAAN5a54WUgk74.jpeg"
+    }, {
+      "id": 5,
+      "imgUrl": "http://pic.58pic.com/58pic/13/81/48/15T58PICNcG_1024.jpg"
+    }]
+  }
+}
